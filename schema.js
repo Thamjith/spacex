@@ -1,5 +1,11 @@
 const axios = require('axios')
-const { GraphQLObjectType, GraphQLInt, GraphQLString, GraphQLBoolean, GraphQLList, GraphQLSchema } = require('graphql')
+const { 
+    GraphQLObjectType, 
+    GraphQLInt, 
+    GraphQLString, 
+    GraphQLBoolean, 
+    GraphQLList, 
+    GraphQLSchema } = require('graphql')
 
 // Launch Type
 const LaunchType = new GraphQLObjectType({
