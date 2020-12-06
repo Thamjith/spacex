@@ -11,7 +11,7 @@
   },
   "keywords": [],
   "author": "Thamjith Thaha",
-  "license": "UNLICENSED",
+  "license": "MIT",
   "dependencies": {
     "axios": "^0.21.0",
     "concurrently": "^5.3.0",
