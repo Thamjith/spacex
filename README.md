@@ -21,3 +21,4 @@ This project is licensed under the MIT License
 
 # Demo
 https://gentle-fortress-18869.herokuapp.com/
+(Its in a free hosting plan, so have some patience while loading)
